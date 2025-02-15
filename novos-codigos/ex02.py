@@ -17,3 +17,4 @@ print("Hobbies:")
 # Iterando sobre a lista de hobbies e exibindo cada um
 for hobby in hobbies:
     print(f"- {hobby}")
+    
